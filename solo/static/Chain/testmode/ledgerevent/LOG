@@ -1,0 +1,40 @@
+=============== Dec 30, 2018 (GMT) ===============
+13:03:04.019649 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:03:04.020302 db@open opening
+13:03:04.020934 version@stat F·[] S·0B[] Sc·[]
+13:03:04.021329 db@janitor F·2 G·0
+13:03:04.021358 db@open done T·1.038055ms
+=============== Dec 30, 2018 (GMT) ===============
+14:06:38.284337 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:06:38.285162 version@stat F·[] S·0B[] Sc·[]
+14:06:38.285187 db@open opening
+14:06:38.285257 journal@recovery F·1
+14:06:38.286033 journal@recovery recovering @1
+14:06:38.288378 memdb@flush created L0@2 N·618 S·28KiB "\x10,v618":"\x14\xe5\x1d.._\xfae,v13"
+14:06:38.289195 version@stat F·[1] S·28KiB[28KiB] Sc·[0.25]
+14:06:38.290802 db@janitor F·3 G·0
+14:06:38.290875 db@open done T·5.671779ms
+14:39:37.293995 db@close closing
+14:39:37.294426 db@close done T·428.962µs
+=============== Jan 7, 2019 (GMT) ===============
+23:27:54.799980 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:27:54.802048 version@stat F·[1] S·28KiB[28KiB] Sc·[0.25]
+23:27:54.802122 db@open opening
+23:27:54.802319 journal@recovery F·1
+23:27:54.805631 journal@recovery recovering @3
+23:27:54.809655 memdb@flush created L0@5 N·331 S·14KiB "\x10,v950":"\x14[\x02\x00\x00,v621"
+23:27:54.811426 version@stat F·[2] S·42KiB[42KiB] Sc·[0.50]
+23:27:54.816502 db@janitor F·4 G·0
+23:27:54.816658 db@open done T·14.488395ms
+=============== Jan 9, 2019 (GMT) ===============
+00:08:23.795074 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+00:08:23.796122 version@stat F·[2] S·42KiB[42KiB] Sc·[0.50]
+00:08:23.796164 db@open opening
+00:08:23.796480 journal@recovery F·1
+00:08:23.798222 journal@recovery recovering @6
+00:08:23.802223 memdb@flush created L0@8 N·614 S·27KiB "\x10,v1565":"\x14\xfe\xea..\xba\xfd\xd4,v1078"
+00:08:23.803791 version@stat F·[3] S·70KiB[70KiB] Sc·[0.75]
+00:08:23.806338 db@janitor F·5 G·0
+00:08:23.806366 db@open done T·10.182145ms
+00:18:03.432398 db@close closing
+00:18:03.432692 db@close done T·291.692µs
