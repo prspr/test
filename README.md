@@ -1,5 +1,4 @@
-# tutorialtoken-box
-
+# Getting started
 <!-- TOC -->
 
 - [1. Introduction](#1-introduction)
